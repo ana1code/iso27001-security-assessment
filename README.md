@@ -49,21 +49,6 @@ The main objectives of this assessment are to:
 
 # 🔎 Assessment Workflow
 
-```text
-Business Scenario
-       ↓
-Risk Assessment
-       ↓
-ISO 27001/27002 Control Mapping
-       ↓
-Security Gap Analysis
-       ↓
-Security Recommendations
-       ↓
-Incident Response
-       ↓
-Continuous Improvement
-```
 ![Security Assessment Workflow](images/security-assessment-workflow.png)
 ---
 
