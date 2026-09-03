@@ -64,7 +64,7 @@ Incident Response
        ↓
 Continuous Improvement
 ```
-
+![Security Assessment Workflow](images/security-assessment-workflow.png)
 ---
 
 # 📊 Project Components
